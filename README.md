@@ -2,4 +2,4 @@
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=narmhye)](https://solved.ac/narmhye)
 <br>
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://narmhye.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://cocoon1787.tistory.com/)
