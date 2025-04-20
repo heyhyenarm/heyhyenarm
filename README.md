@@ -1,4 +1,3 @@
-
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=narmhye)](https://solved.ac/narmhye)
 <br>
