@@ -1,10 +1,4 @@
-# 안녕하세요, 게임 클라이언트 개발자 남혜림입니다 👋
-
-기술 블로그
-<br>
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://narmhye.tistory.com/)
-<br>
-<br>
+# 안녕하세요, 게임 클라이언트 개발자 남혜림입니다 👽
 
 
 게임의 비주얼과 기획 의도를 이해하고, 사용자 경험을 안정적인 시스템으로 구현하는 개발자를 지향합니다.
