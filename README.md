@@ -92,6 +92,7 @@ VR 영상 서비스의 유지보수와 성능 개선을 담당했습니다.
 - 
 ### NomNomBite
 
+![타이핑 화면](https://cdn.discordapp.com/attachments/1528589345622069268/1546788588702797874/cat_lower.gif?ex=6aa10ea1&is=6a9fbd21&hm=d73e0c3a4678de495684aae0fd136223de145581a3f0063d2fc65490f700b67b&)
 Windows 데스크톱 위에서 동물 주민을 수집하고 마을을 꾸미는 Unity 기반 컴패니언 게임입니다.
 
 | 구분 | 내용 |
