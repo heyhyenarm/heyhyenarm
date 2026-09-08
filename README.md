@@ -89,10 +89,15 @@ VR 영상 서비스의 유지보수와 성능 개선을 담당했습니다.
 - API 통신과 UI를 분리해 데이터 제공 방식이 바뀌어도 일정 화면과 규칙을 재사용할 수 있도록 설계
 - API 키를 코드에서 분리하고 예제 설정 파일만 배포하는 구조 적용
 - 상시 실행 환경을 고려한 프레임 제한, 갱신량 감소와 Windows 자원 정리
-- 
+  
 ### NomNomBite
 
 ![타이핑 화면](https://cdn.discordapp.com/attachments/1528589345622069268/1546788588702797874/cat_lower.gif?ex=6aa10ea1&is=6a9fbd21&hm=d73e0c3a4678de495684aae0fd136223de145581a3f0063d2fc65490f700b67b&)
+
+![전체 게임 흐름](https://cdn.discordapp.com/attachments/1528589345622069268/1546788639533563934/game.gif?ex=6aa10ead&is=6a9fbd2d&hm=8fe557cd59a1b4f61eaecfbff4bc06d7bf6dee07ee9cb227897c1b1b4864e878&)
+![Town Mode](https://cdn.discordapp.com/attachments/1528589345622069268/1546788670567096320/town.gif?ex=6aa10eb5&is=6a9fbd35&hm=b0d8fde12a94de7c42d1aacdbc9131dd4c7ddfc1814b56734f094b708dbf1363&)
+
+
 Windows 데스크톱 위에서 동물 주민을 수집하고 마을을 꾸미는 Unity 기반 컴패니언 게임입니다.
 
 | 구분 | 내용 |
