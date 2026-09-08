@@ -74,6 +74,10 @@ VR 영상 서비스의 유지보수와 성능 개선을 담당했습니다.
 
 ### MapleStory Scheduler
 
+![타이핑 화면](https://cdn.discordapp.com/attachments/1528589345622069268/1546789569381273680/Development.gif?ex=6aa10f8b&is=6a9fbe0b&hm=18c20e757eb3b4a650d58a17d5de6d9e165809a1c2a31ec68abe49c4e3f9e411&)
+![스케줄러 화면](https://cdn.discordapp.com/attachments/1528589345622069268/1546788226142830622/image.png?ex=6aa10e4b&is=6a9fbccb&hm=aeb1d934cd3ba240c584c544504505a2562927bf21c807ad3779f0b93a813f03&)
+
+
 메이플스토리의 주간·보스 일정을 데스크톱 위젯에서 빠르게 확인할 수 있도록 만든 Windows 컴패니언 앱입니다.
 
 | 구분 | 내용 |
