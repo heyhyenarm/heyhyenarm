@@ -96,7 +96,7 @@ VR 영상 서비스의 유지보수와 성능 개선을 담당했습니다.
   
 ### NomNomBite
 
-![MVP 제작 직후](https://youtu.be/Q34awxaE75w)
+[![MVP 제작 직후](https://youtu.be/Q34awxaE75w)
 ![타이핑 화면](https://cdn.discordapp.com/attachments/1528589345622069268/1546788588702797874/cat_lower.gif?ex=6aa10ea1&is=6a9fbd21&hm=d73e0c3a4678de495684aae0fd136223de145581a3f0063d2fc65490f700b67b&)
 
 ![전체 게임 흐름](https://cdn.discordapp.com/attachments/1528589345622069268/1546788639533563934/game.gif?ex=6aa10ead&is=6a9fbd2d&hm=8fe557cd59a1b4f61eaecfbff4bc06d7bf6dee07ee9cb227897c1b1b4864e878&)
